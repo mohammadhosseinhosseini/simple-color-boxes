@@ -18,7 +18,7 @@ yarn
 
 ## Getting Started
 
-Then,run the development server:
+Then, run the development server:
 
 ```bash
 npm start
